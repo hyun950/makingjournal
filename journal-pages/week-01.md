@@ -8,7 +8,7 @@ layout: default
 
 ## Documentation 
 
-As the first week of the course, we were introduced and explained the purpose of this course and given an outline of what will happen the following weeks. What I have gathered is that the course will go over data in its many forms and how it can be interpreted, such as data visualisations, data as creative materials, data humanisms and data drawings. 
+As the first week of the course, we were introduced and explained the purpose of this course and given an outline of what will happen the following weeks. What I have gathered is that the course will go over data in its many forms and how it can be interpreted, such as data visualisations, data as creative materials, data humanisms and data drawings.
 
 An interesting example this week was how John Snow's work of visualising the data between Cholera and relevant waterways was able to assisst in mitigating the issue. This example helped highlight the importance of knowing how to design with data, as well as knowing how to interpret and visualise it.
 
@@ -22,8 +22,8 @@ From the group we swapped with, we were able to decipher three things; method of
 
 *Use the format below to embed images from your assets folder:*
 
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
+`![Alt text](../assets/week-01/wk1scan1.jpeg)`
+`*Week 1's drawings*`
 
 *The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
 
