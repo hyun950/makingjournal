@@ -22,8 +22,12 @@ From the group we swapped with, we were able to decipher three things; method of
 
 *Use the format below to embed images from your assets folder:*
 
-`![Alt text](../assets/week-01/wk1scan1.jpeg)`
-`*Week 1's drawings*`
+![Alt text](../assets/week-01/wk1scan1.jpeg)
+
+![Alt text](../assets/week-01/wk1scan2.jpeg)
+
+![Alt text](../assets/week-01/wk1scan3.jpeg)
+*Week 1's drawings*
 
 *The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
 
