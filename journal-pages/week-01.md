@@ -14,25 +14,21 @@ An interesting example this week was how John Snow's work of visualising the dat
 
 By the end of the course, we will be expected to demonstrate critical understanding of theories and practices concerned with data representation.
 
+## In-class Activity
+
 We began our course with the Group Data Portrait activity, in which we collected anonymous data with indivudual questions. After, we visualised it in a method unique to ours by inventing our own visual language. We then swapped our data drawing with another group, and saw how much of it we could decode.
+
+![Alt text](../assets/week-01/wk1scan1.jpeg)
+*Questions and data that we gathered.*
+
+![Alt text](../assets/week-01/wk1scan2.jpeg)
+*Our unique data visualised as a portrait.*
+
+![Alt text](../assets/week-01/wk1scan3.jpeg)
+*The key to the data poritrait*
 
 From the group we swapped with, we were able to decipher three things; method of transportation to university, distance from the university, and in which direction someone lived from the univeristy.
 
 Overall, the first week's class was a great way to ease back into learning after a long holiday. 
 
-## Images & Media
-
-*Use the format below to embed images from your assets folder:*
-
-![Alt text](../assets/week-01/wk1scan1.jpeg)
-
-![Alt text](../assets/week-01/wk1scan2.jpeg)
-
-![Alt text](../assets/week-01/wk1scan3.jpeg)
-*Week 1's drawings*
-
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
-
-## AI Usage Statement
-
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+![Alt text](../assets/mainpage/baba.gif)

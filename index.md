@@ -7,7 +7,7 @@ title: Home
 ![Alt text](./assets/mainpage/babasleep.gif)
 ## Welcome to my Journal
 
-This is June Yun's blog for DES240, Designing with Data. 
+This is June Yun's blog for DES240: Designing with Data. 
 
 With this class, I am hoping to learn how to integrate more technologically intricate skills to my well of design knowledge. This is important to me as I am an amateur computer science enthusiast.
 
