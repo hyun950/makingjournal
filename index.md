@@ -37,7 +37,7 @@ This is my journal, and so I will attempt to test the boundaries of what I can d
 This means there will be:
 - Funny jokes.
 - Random assortment gifs and images (if I'm not lazy).
-- ~~correct grammar except for capitalising (i think it makes it more "human" and "like me")~~ 
+- ~~correct grammar except for capitalising (i think it makes it more "human" and "like me").~~ 
     - __ABORT MISSION__: I just read the documentation criterias and I saw "the journal is professionally presented". Yeah, nah, I want my points, actually.
 
 That's about it. I'll probably be told to make it more professional during the week 4 check up, but until then, I will get as silly as possible.

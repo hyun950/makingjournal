@@ -4,14 +4,32 @@ layout: default
 [← Back to Home](../index.md)
 # Week 03 - I Can't Do Anything
 
-This week covered more about the journal and how to set it up. This includes actually uploading it onto the website and adding images to our journal. 
+This week covered more about the journal and how to set it up. This includes actually uploading it onto the website and adding images to our journal. We also learned about live data, and utilising the terminal in order to gather info and test out some other miscellaneous stuff. Most of it was learning the cURL features that come preinstalled in macOS and Windows.
 
+## cURL This and Thats
 
-## I Lied, I Did a Thing
+Our first experiment was copy and pasting in a code which demonstrates ASCII animations. This parrot is awesome, by the way.
+
+![Alt text](../assets/week-03/wk3parrot.gif)
+*I did this on my PC at home so I could make it a gif. Gifs are awesome.*
+
+The second experiment lets us see the weather in various places. 
+
+![Alt text](../assets/week-03/wk3weather.png)
+*New Zealand weather is unequivocally terrible.*
+
+## I Lied, I Did Something
 
 I am planning to push the website a bit beyond what is expected by adding bits and bobs here and there. By "push the website a bit beyond" I mean just adding silly images. I still think it's a little bit impressive, though. 
 
-For example, I made my own custom folder called "mainpage" under the assets folder for the index page of this website.
+For example, I made my own custom folder called "misc" under the assets folder for the index page of this website. There I slapped in a bunch of miscellaneous gifs and photos I thought were pretty funny. Most of it are just spinning bananas, I wont lie.
+
+The so-called "impressive" part is using the almighty "Google Dot Com" to search up how the media directory format works on GitHub.
+
+As the assets folder is on the same hierarchy as the index page, instead of adding ".." to indicate the parent folder, you just do "." as that looks for a folder on the same hierarchy.
+
+![Alt text](../assets/misc/bananaspin1.gif)
+*Wow, a spinning banana! I couldn't ask for more. This doesn't really exemplify my learnings since this isn't on the index, but you probably get the point.*
 
 ## The Data Drawings That I Most Definitely Did
 

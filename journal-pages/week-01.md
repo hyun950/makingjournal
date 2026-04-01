@@ -33,4 +33,4 @@ From the group we swapped with, we were able to decipher three things; method of
 
 Overall, the first week's class was a great way to ease back into learning after a long holiday. The data aspect of this course actually seems a little tricky (due to my being as a professional procrastinator) to keep up with so I pray that I can "lock in" and not fall behind.
 
-![Alt text](../assets/mainpage/baba.gif)
+![Alt text](../assets/misc/baba.gif)
