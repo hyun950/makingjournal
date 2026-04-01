@@ -4,7 +4,7 @@ title: Home
 ---
 
 # Making Journal for DES240
-![Alt text](./assets/miscbabasleep.gif)
+![Alt text](./assets/misc/babasleep.gif)
 ## Welcome to my Journal
 
 This is June Yun's blog for DES240: Designing with Data. 
