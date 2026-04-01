@@ -4,7 +4,7 @@ title: Home
 ---
 
 # Making Journal for DES240
-![Alt text](./assets/mainpage/babasleep.gif)
+![Alt text](./assets/miscbabasleep.gif)
 ## Welcome to my Journal
 
 This is June Yun's blog for DES240: Designing with Data. 
@@ -42,4 +42,4 @@ This means there will be:
 
 That's about it. I'll probably be told to make it more professional during the week 4 check up, but until then, I will get as silly as possible.
 
-![Alt text](./assets/mainpage/rotate.gif)
+![Alt text](./assets/misc/bananaspin2.gif)

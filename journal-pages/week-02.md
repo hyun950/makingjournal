@@ -6,7 +6,7 @@ layout: default
 
 This week, we went into learning about the p5.js fundamentals of learning how to draw with script. The lecturers also help us set up this very website in order to document our learnings and progress for this class.
 
-## The Data Drawings That I Most Definitely Did Do
+## The Data Drawings That I Definitely Did
 
 I didn't do the data drawings I was supposed to do since last week. I am a liar and a fraud. 
 
@@ -41,7 +41,7 @@ We also went through some other fundamentals such as variables, conditionals, an
 I already knew quite a bit of this; scripting really is just glorified maths. I recreated CharliXCX's hit album "brat" on the website.
 
 ![Alt text](../assets/week-02/wk2brat.png)
-*Honestly, I hate this album. But I have to admit, this was extremely funny to do.*
+*Honestly, I hate this album. But this is admittedly pretty funny.*
 
 ## The Making Journal
 
@@ -53,6 +53,6 @@ _However, the rubric for the journal's presentation looked mighty scary, hence w
 
 ## Summary of my Thoughts
 
-The p5.js website is awesome. I think this may genuinely be my saving grace for this class.
+The p5.js website is awesome. I think this may genuinely be my saving grace for this class. Hopefully I am able to retain some information about this website and utilise it for whatever final assignment I've got to hand in.
 
-![Alt text](../assets/mainpage/baba.gif)
+![Alt text](../assets/misc/baba.gif)

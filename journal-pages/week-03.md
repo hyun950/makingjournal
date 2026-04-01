@@ -1,14 +1,25 @@
 ---
 layout: default
 ---
-
-# Week 03
-
 [← Back to Home](../index.md)
+# Week 03 - I Can't Do Anything
 
-## Documentation 
+This week covered more about the journal and how to set it up. This includes actually uploading it onto the website and adding images to our journal. 
 
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
+
+## I Lied, I Did a Thing
+
+I am planning to push the website a bit beyond what is expected by adding bits and bobs here and there. By "push the website a bit beyond" I mean just adding silly images. I still think it's a little bit impressive, though. 
+
+For example, I made my own custom folder called "mainpage" under the assets folder for the index page of this website.
+
+## The Data Drawings That I Most Definitely Did
+
+I am most definitely going to regret pushing this so far into the week.
+
+I do have an idea for my sketch, though; I want to add bubbles or shapes per session of me playing my video game. Depending on whether I go net positive or negative, the bubble will be a different colour. Inside the bubble is also the weapon I use. 
+
+I also want to incorporate the time at which I play the video game to see whether that is relevant towards my win-to-lose ratio.
 
 ## Images & Media
 

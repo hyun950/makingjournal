@@ -2,11 +2,9 @@
 layout: default
 ---
 
-# Week 01 - I am Scared of This Course
-
 [← Back to Home](../index.md)
 
-## Overview of the Week 
+# Week 01 - I am Scared of This Course
 
 As the first week of the course, we were introduced and explained the purpose of this course and given an outline of what will happen the following weeks. 
 
@@ -16,7 +14,7 @@ An interesting example this week was how John Snow's work of visualising the dat
 
 By the end of the course, we will be expected to demonstrate critical understanding of theories and practices concerned with data representation.
 
-## In-class Activity
+## Data Portraits
 
 We began our course with the group data portrait activity, in which we collected anonymous data with indivudual questions. After, we visualised it in a method unique to ours by inventing our own visual language. We then swapped our data drawing with another group, and saw how much of it we could decode.
 
