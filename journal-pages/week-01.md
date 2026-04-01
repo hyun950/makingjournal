@@ -18,6 +18,8 @@ We began our course with the Group Data Portrait activity, in which we collected
 
 From the group we swapped with, we were able to decipher three things; method of transportation to university, distance from the university, and in which direction someone lived from the univeristy.
 
+Overall, the first week's class was a great way to ease back into learning after a long holiday. 
+
 ## Images & Media
 
 *Use the format below to embed images from your assets folder:*
