@@ -1,12 +1,8 @@
 ---
 layout: default
 ---
-
-# Week 02 - Nevermind we are So Back
-
-[← Abort mission](../index.md)
-
-## Overview of the Week 
+[← Back to Home](../index.md)
+# Week 02 - Nevermind we are so Back
 
 This week, we went into learning about the p5.js fundamentals of learning how to draw with script. The lecturers also help us set up this very website in order to document our learnings and progress for this class.
 
@@ -20,6 +16,8 @@ So in the end, I ended up keeping track of the amount of elo (points) I win or l
 
 1. What weapons am I most likely to win on?
 2. When do I start "tilting" (getting mad at the game and start doing worse)?
+
+I'll have it figured out later. I most definitely will not regret that decision.
 
 ## Learning p5.js
 
@@ -49,9 +47,9 @@ I already knew quite a bit of this; scripting really is just glorified maths. I 
 
 I think that, going forward, I will try to be a bit more personal with this journal. It'll probably help me a lot with motivating myself to write and finding more to write about. 
 
-    JUNE FROM THE FUTURE (Week 4): I originally had the entire journal in lowercase letters because that's how I like to type. 
-    
-    However, the rubric for the journal's presentation looked mighty scary, hence why I will be, infact, using proper grammar. Sigh.
+_JUNE FROM THE FUTURE (Week 4): I originally had the entire journal in lowercase letters because that's how I like to type_
+
+_However, the rubric for the journal's presentation looked mighty scary, hence why I will be, infact, using proper grammar. Sigh._
 
 ## Summary of my Thoughts
 

@@ -13,20 +13,6 @@ With this class, I am hoping to learn how to integrate more technologically intr
 
 This is important to me as I am an amateur computer science enthusiast and most definitely will be using this knowledge in the future and not forget it at all. Yup.
 
-## The PSA for the People Marking This
-
-This is my journal, and so I will attempt to test the boundaries of what I can do in this journal before the professors start docking points off of me.
-
-This means there will be:
-- Funny jokes.
-- Random assortment gifs and images (if I'm not lazy).
-- ~~correct grammar except for capitalising (i think it makes it more "human" and "like me")~~ 
-    - __ABORT MISSION__: I just read the documentation criterias and I saw "the journal is professionally presented". Yeah nah, I want my points, actually.
-
-Will I deeply regret this if this loses me a bajillion marks? Probably. 
-
-But I want to be able to look at this journal when I'm done with this course and go "this is awesome, actually".
-
 ## Weekly Journal
 
 | Week | Topic |
@@ -44,4 +30,14 @@ But I want to be able to look at this journal when I'm done with this course and
 | [Week 11](journal-pages/week-11.md) | Design project |
 | [Week 12](journal-pages/week-12.md) | Showcase (Freedom) |
 
+## PSA for the People Marking 
+
+This is my journal, and so I will attempt to test the boundaries of what I can do in this journal before the professors start docking points off of me.
+
+This means there will be:
+- Funny jokes.
+- Random assortment gifs and images (if I'm not lazy).
+- ~~correct grammar except for capitalising (i think it makes it more "human" and "like me")~~ 
+    - __ABORT MISSION__: I just read the documentation criterias and I saw "the journal is professionally presented". Yeah, nah, I want my points, actually.
+    
 ![Alt text](./assets/mainpage/baba.gif)

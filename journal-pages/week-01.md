@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Week 01 - I am Scared of this Course
+# Week 01 - I am Scared of This Course
 
-[← Abort mission](../index.md)
+[← Back to Home](../index.md)
 
 ## Overview of the Week 
 
