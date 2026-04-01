@@ -4,10 +4,12 @@ title: Home
 ---
 
 # Making Journal for DES240
+![Alt text](./assets/mainpage/babasleep.gif)
+## Welcome to my Journal
 
-*Write a short introduction about yourself and this course here. What are you hoping to learn and achieve? What's your background as a designer? What are your interests as a designer?*
+This is June Yun's blog for DES240, Designing with Data. 
 
----
+With this class, I am hoping to learn how to integrate more technologically intricate skills to my well of design knowledge. This is important to me as I am an amateur computer science enthusiast.
 
 ## Weekly Journal
 
