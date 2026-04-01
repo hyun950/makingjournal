@@ -33,6 +33,18 @@ Scripting is easy once you realise you can just... rip other people's script off
 
 I love doing things that I'm already good at, which means that I will be taking back my opinion from last week of "this class is scary" to "this class is awesome".
 
+With the basic tools we learnt, we were tasked to do an experiment drawing of replicating what was on the board. I think mine was as efficient as it gets:
+
+![Alt text](../assets/week-02/wk2trialsketch.png)
+*Super Optimised, I think.*
+
+We also went through some other fundamentals such as variables, conditionals, and DOM elemtents. 
+
+I already knew quite a bit of this; scripting really is just glorified maths. I recreated CharliXCX's hit album "brat" on the website.
+
+![Alt text](../assets/week-02/wk2brat.png)
+*Honestly, I hate this album. But I have to admit, this was extremely funny to do.*
+
 ## The Making Journal
 
 I think that, going forward, I will try to be a bit more personal with this journal. It'll probably help me a lot with motivating myself to write and finding more to write about. 
@@ -41,15 +53,8 @@ I think that, going forward, I will try to be a bit more personal with this jour
     
     However, the rubric for the journal's presentation looked mighty scary, hence why I will be, infact, using proper grammar. Sigh.
 
-## Images & Media
+## Summary of my Thoughts
 
-*Use the format below to embed images from your assets folder:*
+The p5.js website is awesome. I think this may genuinely be my saving grace for this class.
 
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
-
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
-
-## AI Usage Statement
-
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+![Alt text](../assets/mainpage/baba.gif)
