@@ -39,5 +39,7 @@ This means there will be:
 - Random assortment gifs and images (if I'm not lazy).
 - ~~correct grammar except for capitalising (i think it makes it more "human" and "like me")~~ 
     - __ABORT MISSION__: I just read the documentation criterias and I saw "the journal is professionally presented". Yeah, nah, I want my points, actually.
-    
-![Alt text](./assets/mainpage/baba.gif)
+
+That's about it. I'll probably be told to make it more professional during the week 4 check up, but until then, I will get as silly as possible.
+
+![Alt text](./assets/mainpage/rotate.gif)
