@@ -6,7 +6,7 @@ layout: default
 
 [← Back to Home](../index.md)
 
-## Documentation 
+## Overview of the Week 
 
 As the first week of the course, we were introduced and explained the purpose of this course and given an outline of what will happen the following weeks. What I have gathered is that the course will go over data in its many forms and how it can be interpreted, such as data visualisations, data as creative materials, data humanisms and data drawings.
 

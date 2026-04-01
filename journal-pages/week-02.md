@@ -6,9 +6,9 @@ layout: default
 
 [← Back to Home](../index.md)
 
-## Documentation 
+## Overview of the Week 
 
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
+This week, we went into learning about the p5.js fundamentals of learning how to draw with script. 
 
 ## Images & Media
 
