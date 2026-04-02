@@ -50,6 +50,9 @@ As usual, there's that distinguishing AI faults. First of all, the blurring of c
 ![Alt text](../assets/week-04/wk4slop2.png)
 *What is the point of the scale? What metaphor or meaning is the scale trying to convey? Why does the left scale just merge into the background? Why do the penguins feet blur into the background? What is the point of the massive empty space at the bottom of the graphic? 748,000 Hectares of what?*
 
+![Alt text](../assets/week-04/wk4slop3.png)
+*I think I've already said all that needs to be said.*
+
 ## Summary of my Thoughts
 
 Doing this task felt a bit gross. I'm an avid anti-AI advocate and using it in the last task to produce "art" (in the form of posters) just felt really wrong to me. That up to one bottle of water per infographic, and three bottles with doing that task three times.
