@@ -2,7 +2,7 @@
 layout: default
 ---
 [← Back to Home](../index.md)
-# Week 03 - p5.js My Beloved
+# Week 03 - p5.js (Again)
 
 This week covered more about the journal and how to set it up. This includes actually uploading it onto the website and adding images to our journal. We also learned about live data, and utilising the terminal in order to gather info and test out some other miscellaneous stuff. 
 

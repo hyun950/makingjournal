@@ -26,13 +26,15 @@ I had to go home and use my dinky little computer with little to no storage left
 
 I genuinely cannot do anything on my laptop I guess? For some reason, NotebookLM really doesn't want to open on my laptop. I had to do this at home, too.
 
-*Use the format below to embed images from your assets folder:*
+![Alt text](../assets/week-04/wk4proof.png)
+*Here's proof that I did the stuff. I know the voiceover isn't ready yet but just trust me that it works because I already turned off my PC and do not want to have to take another screenshot.*
 
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
+The audio overview option for NotebookLM is genuinely terrifying. Mimicking two people doing a podcast with my two inputs with proper pauses, jokes, and chuckling is genuinely terrifying. It's also giving me second hand embarrassment of my journal because the AIs are making me out to sound like a cornball. Maybe I ought to change it.
 
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
+It's pretty jarring how much the overviews can churn out a well written paragraph about pretty much anything you feed into it. Also makes me think the importance of not falling for the trap of being lazy and not double checking that the information is all correct.
 
-## AI Usage Statement
+![Alt text](../assets/week-04/wk4moreproof.png)
+*I can really only assume the stuff here is accurate..*
 
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+## Datasets and Letting AI Do the Work Because I'm Lazy
+
