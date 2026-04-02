@@ -56,7 +56,7 @@ The script to add the sleeping little creature on my index page had me write the
 
 We also practised using p5.js in order to display information from APIs.
 
-![Alt text](../assets/week-03/wk3meteo.png.gif)
+![Alt text](../assets/week-03/wk3meteo.png)
 *My changes to the original exemplary script.* 
 
 The "wind" value is times by 20 in order to dictate the length of the red rectangle, and the "humidity" value determines the red value of the RGB background. The console also shows you directly the values of the temperature, wind speed, and humidity in that order, thanks to the built-in print function.
@@ -71,10 +71,9 @@ Below this paragraph is a link to the p5.js file directly. Before you open, howe
 
 <details>
 <summary>Click here to view "weather seizure" by hyun950 (me). </summary>
-
 <iframe src="https://editor.p5js.org/hyun950/full/Udkl-0sKL" width="400" height="400"></iframe>
-
 </details>
+
 
 ## The Data Drawings That I Most Definitely Did
 
