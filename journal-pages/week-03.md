@@ -2,7 +2,7 @@
 layout: default
 ---
 [← Back to Home](../index.md)
-# Week 03 - I Can't Do Anything
+# Week 03 - p5.js My Beloved
 
 This week covered more about the journal and how to set it up. This includes actually uploading it onto the website and adding images to our journal. We also learned about live data, and utilising the terminal in order to gather info and test out some other miscellaneous stuff. 
 
@@ -10,10 +10,10 @@ Most of it was learning the cURL features that come preinstalled in macOS and Wi
 
 ## cURL This and Thats
 
-Our first experiment was copy and pasting in a code which demonstrates ASCII animations. This parrot is awesome, by the way.
+Our first experiment was copy and pasting in a code which demonstrates ASCII animations. 
 
 ![Alt text](../assets/week-03/wk3parrot.gif)
-*I did this on my PC at home so I could make it a gif. Gifs are awesome.*
+*I did this on my PC at home so I could make it a gif. Gifs make my journal look good. Parrots are awesome too.*
 
 The second experiment lets us see the weather in various places utilising wttr.in, a console-oriented weather forecast service. 
 
@@ -31,7 +31,7 @@ We also explored the possibilities of what wttr.in can do and did a few activiti
 ![Alt text](../assets/week-03/wk3curlfrench.png)
 *Voici la météo à Paris. I studied four years of French for nothing.*
 
-## I Lied, I Did Something
+## Journal Stuff
 
 I am planning to push this website a bit beyond what is expected. By "push the website a bit beyond" I mean just adding silly images. I still think it's a little bit impressive, though. 
 
@@ -80,3 +80,9 @@ Below this paragraph is a link to the p5.js file directly. Before you open, howe
 I am most definitely going to regret pushing this so far into the week.
 
 I do have an idea for my sketch, though; I want to add bubbles or shapes per session of me playing my video game. Depending on whether I go net positive or negative, the bubble will be a different colour. Inside the bubble is also the weapon I use. I also want to incorporate the time at which I play the video game to see whether that is relevant towards my win-to-lose ratio.
+
+## Summary of my Thoughts
+
+I think p5.js and utilising cURL for inputs sounds awesome. Not much to say but I think I'd be able to put all of these learnings to good use in the future. I googled different APIs like stockmarket data and I'm hoping to do something with that later.
+
+![Alt text](../assets/misc/baba.gif)
