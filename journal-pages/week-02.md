@@ -2,7 +2,7 @@
 layout: default
 ---
 [← Back to Home](../index.md)
-# Week 02 - Nevermind we are so Back
+# Week 02 - p5.js
 
 This week, we went into learning about the p5.js fundamentals of learning how to draw with script. The lecturers also help us set up this very website in order to document our learnings and progress for this class.
 

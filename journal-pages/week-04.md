@@ -2,7 +2,7 @@
 layout: default
 ---
 [← Back to Home](../index.md)
-# Week 04 - The Age Old AI Debate. Also, I Can't Do Anything.
+# Week 04 - The Age Old AI Debate. Also, I Can't Do Anything
 
 "How might AI change design?" "How do you use AI?" "What are your concerns about AI?"
 
