@@ -17,9 +17,9 @@ My only concern so far is that the collected data might be slow, and the impact 
 
 ## Visual Research and Precedent Study 
 
-![hmm...](../assets/week-06/wk6tama.jpeg)
+<img align="left" src="../assets/week-06/wk6tama.jpeg" width="50%" hspace="10" >
 
-Gather a curated set of at least 5 visual references relevant to your project. These might include data visualisations, design works that share thematic territory, or examples of the output format you're considering (physical, screen-based, interactive, etc.).
+*[The Tamagochi on Wikipedia](https://en.wikipedia.org/wiki/Tamagotchi)*
 
 For each reference, write a short response in your journal (1–2 sentences per point) addressing:
 
