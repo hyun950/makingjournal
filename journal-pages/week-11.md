@@ -6,18 +6,16 @@ layout: default
 
 [← Back to Home](../index.md)
 
-## Documentation 
+## Self Review
 
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
+Three key moments in my 
 
-## Images & Media
 
-*Use the format below to embed images from your assets folder:*
+1-2 sentences 
 
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
+## Practice Consultation
 
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
+1. Tell me about your 
 
 ## AI Usage Statement
 

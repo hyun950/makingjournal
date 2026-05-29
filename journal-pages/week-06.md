@@ -15,11 +15,9 @@ Both of these types of data aren't quite preexisting, and so I would need to col
 
 My only concern so far is that the collected data might be slow, and the impact of being able to see the large collective of votes will be lost.
 
-Produce a short written audit in your journal covering:
-
 ## Visual Research and Precedent Study 
 
-![Alt text](../assets/week-04/wk4proof.png)
+![hmm...](../assets/week-06/wk6tama.jpeg)
 
 Gather a curated set of at least 5 visual references relevant to your project. These might include data visualisations, design works that share thematic territory, or examples of the output format you're considering (physical, screen-based, interactive, etc.).
 
