@@ -17,7 +17,7 @@ My only concern so far is that the collected data might be slow, and the impact 
 
 ## Visual Research and Precedent Study 
 
-<img align="left" src="../assets/week-06/wk6tama.jpeg" width="25%" hspace="10" >
+<img align="left" src="../assets/week-06/wk6tama.jpeg" width="25%" style="margin-right: 10px;" >
 
 *[The Elusive Tamagochi](https://en.wikipedia.org/wiki/Tamagotchi)*
 
