@@ -19,7 +19,9 @@ My only concern so far is that the collected data might be slow, and the impact 
 
 <img align="left" src="../assets/week-06/wk6tama.jpeg" width="50%" hspace="10" >
 
-*[The Tamagochi on Wikipedia](https://en.wikipedia.org/wiki/Tamagotchi)*
+*[The Tamagochi](https://en.wikipedia.org/wiki/Tamagotchi)*
+
+
 
 For each reference, write a short response in your journal (1–2 sentences per point) addressing:
 
