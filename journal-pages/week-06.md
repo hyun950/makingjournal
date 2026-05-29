@@ -17,10 +17,11 @@ My only concern so far is that the collected data might be slow, and the impact 
 
 ## Visual Research and Precedent Study 
 
-<img align="left" src="../assets/week-06/wk6tama.jpeg" width="50%" hspace="10" >
+<img align="left" src="../assets/week-06/wk6tama.jpeg" width="25%" hspace="10" >
 
-*[The Tamagochi](https://en.wikipedia.org/wiki/Tamagotchi)*
+*[The Elusive Tamagochi](https://en.wikipedia.org/wiki/Tamagotchi)*
 
+When I pitched my idea to my group, someone suggested maybe the information is put on something like a Tamagochi; it's short, easy to carry, and prevents people from being distracted on their phone as it is its own object. I also like how minimalistic it is.
 
 
 For each reference, write a short response in your journal (1–2 sentences per point) addressing:
