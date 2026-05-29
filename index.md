@@ -32,15 +32,8 @@ This is important to me as I am an amateur computer science enthusiast and most 
 
 ## PSA for the People Marking 
 
-Sorry for making the journal really unprofessional.
+Sorry for making the journal really unprofessional. I just like personalising things
 
-My journal has the following:
-
-- Random assortment gifs and images (if I'm not lazy).
-- Normal people writing.
-- ~~un-capitalised words.~~
-    - __ABORT MISSION__: I just read the documentation criterias and I saw "the journal is professionally presented". Yeah, nah, I want my points, actually.
-
-I'll change it later to be normal if the professors don't like this. :(
+I'll change it later to be normal if the professors don't like this :(
 
 ![Alt text](./assets/misc/bananaspin2.gif)
