@@ -8,7 +8,10 @@ layout: default
 
 ## Drafting with AI 
 
-Using my Making Journal and the data source, I did the AI draftign activity. Here are the results.
+Using my Making Journal and the data source, I did the AI drafting activity. Here are the results.
+
+<details>
+<summary>Click here to view the whole AI summary. </summary>
 
 I am a designer exploring the integration of technologically intricate skills into the field of data-driven communication
 . This visualisation is the result of a project developed for "Designing with Data," where I have transformed raw statistical information into a visual narrative for public engagement
@@ -22,15 +25,17 @@ Critically, this work examines the transition from "unprofessional" or casual da
 . The intended impact is to provide the public with a clear, direct encounter with the complex factors that influence their daily costs, such as the Emissions Trading Scheme, regional taxes, and importer margins
 . My goal is to use technical intricacy to ensure this vital information remains accessible and impactful, helping the audience navigate the "Doomsday" of fluctuating prices toward a sense of "Freedom" through informed perspective
 
+//Ara's notes:
+There are a lot of descriptive words in the writing but all together they dont make too much sense.
+the AI is constantly referencing 'doomsday' and 'freedom' as key points in the project but 
+
+</details>
+
 Overall, I think the AI did a really poor job of drafting. I think since I only had one data source (the other one I might have to do stand-in data as I cannot guarentee myself a usable live data source/API) it honed in on that far too much. 
 
 Also, the small edits I made with the website seem to have distracted the AI a lot. Small silly edits I made (like calling week 6 "Doomsday") seems to have really distracted the AI quite a lot.
 
 Some of the bullet points are just nonsensical too. The work does not "examine" the transition between "unprofessional" data into sophisticated data.
-
-//Ara's notes:
-There are a lot of descriptive words in the writing but all together they dont make too much sense.
-the AI is constantly referencing 'doomsday' and 'freedom' as key points in the project but 
 
 ## Sprint Planning
 
@@ -38,16 +43,4 @@ the AI is constantly referencing 'doomsday' and 'freedom' as key points in the p
 
 At the moment, I think I want to iron out how I want the layout of my project to be like. I know I will be working with minimal possible pages as I think I may have the app be a phone widget; being able to communicate the most important information with the least amount of user effort will be important.
 
-- What are your specific goals for this sprint?
-
-I want to make the "shell" or the more user interface aspects down. 
-
-- What information will you gather through making?
-
-
-
-- What tools and materials will you need?
-
-## AI Usage Statement
-
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+For now, I want to make the "shell" or the more user interface aspects down, and I think that through making, I'll have a better idea of what I want the visual aesthetic of the final product to be. I won't be needing anything physical, so the process shouldn't have to many bumps in the road.

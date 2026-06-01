@@ -9,17 +9,15 @@ layout: default
 I want to make some sort of data visualisation that lets people see the most contemporary/relevant information that could aid them.
 
 ![Alt text](../assets/week-07/wk715minsketch.webp)
+*Whatever the heck this is.*
 
-I think my idea could be fun by using an interactive voting system in order to engage the viewers. The visualisation aspect is pretty bare bones at the moment, but I think the system of having some personal input can be pretty interesting.
+I think my idea could be fun by using an interactive voting system in order to engage the viewers. The visualisation aspect is pretty barebones at the moment, but I think the system of having some personal input can be pretty interesting.
 
 For example, people can vote onto one small fact as the most "interesting" or "useful" or even input something in themselves. How people determine what is relevant would purely be up to data.
 
-## Data Sets
+## Making Sprint
 
-Some ideas on which data sets I take and visualise:
+![Alt text](../assets/week-07/wk7sprint.png)
+*Also whatever the freak this is.*
 
-1. 
-
-## AI Usage Statement
-
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+For my making sprint, I tried to visualise what my project could look like. I used Figma and an Apple Watch template in order to simulate the small handheld device. I was trying to make it so that the prototype feature of being able to click buttons would work, but later I found out that I wasn't on the prototype version but the sketch version.
