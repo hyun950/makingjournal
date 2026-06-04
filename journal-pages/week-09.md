@@ -39,8 +39,9 @@ Some of the bullet points are just nonsensical too. The work does not "examine" 
 
 ## Sprint Planning
 
-- What does your project need most right now? What will you develop or test?
-
 At the moment, I think I want to iron out how I want the layout of my project to be like. I know I will be working with minimal possible pages as I think I may have the app be a phone widget; being able to communicate the most important information with the least amount of user effort will be important.
 
+I've figured out how to make the embeds look nicer on my project by having a "mask" layer that pretty much hides the things like the scroll bar and the p5.js heading at the top to make it look more authentic.
+
 For now, I want to make the "shell" or the more user interface aspects down, and I think that through making, I'll have a better idea of what I want the visual aesthetic of the final product to be. I won't be needing anything physical, so the process shouldn't have to many bumps in the road.
+
