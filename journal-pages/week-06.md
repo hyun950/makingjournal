@@ -56,19 +56,10 @@ I will need to figure out what the "shell" is. I've had suggestions of making so
 
 ### 3.3 What are my next steps?
 
-Write a short (150–200 words) plan outlining what you need to do next to move your project forward. This should connect directly to your plans for making, your skills gaps, and data source(s).
+I think I gotta figure out how I want to present my work and also the sets of data I want to use. I believe the scripting part won't be the hardest, so deciding on everything else will be the most important aspect as of now.
 
 ## Independent Study
 
-1. Consultation Reflection
+I think the consultation went really well, with me having a solid idea of what I wanted to do. The main piece of criticism I got was that the amount of info I was showing was too broad and unspecific. I think this means I should try to narrow down my final ideas.
 
-Write a short paragraph (150–200 words) reflecting on your discussion in the Proposal Consultation. Consider: what questions or feedback came up that you found useful? Did the conversation shift or sharpen your project direction in any way? What will you do differently, or more deliberately, as a result?
-
-2. Technical Skill Building
-
-Using the skills roadmap produced in class, address your first priority technical gap. Document your learning process, including both textual and visual evidence, and include reflections on what you tried, what you learnt, and how this has helped you progress with your project development (e.g. by building skills to take on the next step, or by revealing that you need to pivot because something isn't working).
-
-3. Initial Concept Sketch
-
-Building on the drawing/diagram produced in class, make a more developed sketch, a rough digital prototype, a physical mock-up, or a short code experiment to visualise something — however provisional it might be — from your chosen dataset. Bring your sketch along to class next week.
-
+I think my biggest technical priority is just finding my data and then having a way to present it. Even if a lot of it may be simulated, it might be important to settle on an idea quickly so I can iterate on it as early as possible. I'll also need to learn p5.js more thoroughly if I want to make my data visually appealing, but that is something I can learn later on.
