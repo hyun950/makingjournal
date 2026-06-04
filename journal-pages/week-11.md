@@ -14,6 +14,12 @@ Figuring out exactly what mediums I wanted to use in order to demonstrate my pro
 
 Lastly, I was incredibly happy with figuring out different methods to make my hand in look good. Utilising the sine wave an its oscillation was incredibly smart, and the pay off of understanding the script was incredibly satisfying.
 
+## Practice Consultations
+
+The practice consultations went fine; I do think I asked/helped others with their consultations more than I actually recieved any. Regardless, I don't really mind, as I knew exactly what answers to provide for any aspect of my project.
+
+The key question I do want to highlight is question 4; how does my work challenge conventional ideas. Through my project, I want to help people use their critical thinking by utilising provided data to make their own conclusions about the world around them. Whereas global statistics are harder to apply in practice, local ones help people understand the immediate world around them.
+
 ## Progress Report 
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/site/5pAtAHc0gKcT2gegZaal6O/240?node-id=0-3&embed-host=share" allowfullscreen></iframe>
