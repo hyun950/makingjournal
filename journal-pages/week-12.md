@@ -1,10 +1,8 @@
 ---
 layout: default
 ---
-
-# Week 12
-
 [← Back to Home](../index.md)
+# Week 12
 
 ## Documentation 
 

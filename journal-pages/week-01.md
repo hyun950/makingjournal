@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-
 [← Back to Home](../index.md)
-
 # Week 01 - Introduction
 
 As the first week of the course, we were introduced and explained the purpose of this course and given an outline of what will happen the following weeks. 

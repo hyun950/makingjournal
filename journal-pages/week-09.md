@@ -1,10 +1,8 @@
 ---
 layout: default
 ---
-
-# Week 09
-
 [← Back to Home](../index.md)
+# Week 09 - AI Isn't Too Bright Sometimes
 
 ## Drafting with AI 
 

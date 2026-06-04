@@ -1,10 +1,8 @@
 ---
 layout: default
 ---
-
-# Week 08
-
 [← Back to Home](../index.md)
+# Week 08 - Presentation
 
 ## Crit Presentation
 

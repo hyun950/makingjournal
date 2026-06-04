@@ -58,7 +58,7 @@ I will need to figure out what the "shell" is. I've had suggestions of making so
 
 I think I gotta figure out how I want to present my work and also the sets of data I want to use. I believe the scripting part won't be the hardest, so deciding on everything else will be the most important aspect as of now.
 
-## Independent Study
+## Progress Report
 
 I think the consultation went really well, with me having a solid idea of what I wanted to do. The main piece of criticism I got was that the amount of info I was showing was too broad and unspecific. I think this means I should try to narrow down my final ideas.
 
